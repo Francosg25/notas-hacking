@@ -5,7 +5,7 @@ The password for the next level can be retrieved by submitting the password of t
 ## Datos de acceso al nivel
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ## Solución
-bandit15@bandit:~$ openssl s_client -connect localhost:30001
+```bandit15@bandit:~$ openssl s_client -connect localhost:30001
 CONNECTED(00000003)
 Can't use SSL_get_servername
 depth=0 CN = SnakeOil
@@ -145,6 +145,10 @@ Correct!
 kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
 closed
+```
+## Forma 2
+
+
 
 ## Notas adicionales
 openssl s_client -connect localhost:30001 openssl - Es una herramienta de línea de comandos que forma parte de la suite OpenSSL, la cual se utiliza para trabajar con criptografía, incluyendo la creación de claves y certificados, y el establecimiento de conexiones seguras utilizando SSL/TLS s_client - Permite establecer una conexión SSL/TLS con un servidor y es útil para probar y depurar la configuración de seguridad del servidor -connect - Es un indicador que le dice a qué servidor y puerto debe conectarse localhost - es el host o la maquina a la que me quiero conectar 30001 - es el puerto que esta abierto en esa maquina
