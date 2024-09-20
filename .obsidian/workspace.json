@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcial 1/useless.md",
+                "file": "PicoCTF retos web/insp3ctor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcial 1/useless.md",
+                "file": "PicoCTF retos web/insp3ctor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcial 1/useless.md",
+                "file": "PicoCTF retos web/insp3ctor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcial 1/useless.md"
+                "file": "PicoCTF retos web/insp3ctor.md"
               }
             }
           }
@@ -149,7 +149,14 @@
   "active": "1b2c761748d1760f",
   "lastOpenFiles": [
     "Plantilla.md",
+    "PicoCTF retos web/insp3ctor.md",
+    "PicoCTF retos web/Client side-again.md",
+    "PicoCTF retos web/where are the robots.md",
+    "PicoCTF retos web/picobrowser.md",
+    "PicoCTF retos web/logon.md",
+    "PicoCTF retos web/dont-use-client-side.md",
     "Parcial 1/useless.md",
+    "PicoCTF retos web",
     "Parcial 1/Special.md",
     "Parcial 1/Serpentine.md",
     "Parcial 1/runme.md",
@@ -169,13 +176,6 @@
     "Parcial 1/strings it.md",
     "Parcial 1/Static ain't always noise.md",
     "Parcial 1/Obedient cat.md",
-    "Parcial 1/Nice netcat.md",
-    "Parcial 1/First Grep.md",
-    "Parcial 1/2Warm.md",
-    "Parcial 1/Tab Tab Attack.md",
-    "Parcial 1/PW Crack 2.md",
-    "Parcial 1/Magikarp Ground Mission.md",
-    "Sin nombre",
     "Parcial 1",
     "retos-bandit"
   ]
