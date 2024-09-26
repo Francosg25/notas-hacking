@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF retos web/insp3ctor.md",
+                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF retos web/insp3ctor.md",
+                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF retos web/insp3ctor.md",
+                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF retos web/insp3ctor.md"
+                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "1b2c761748d1760f",
   "lastOpenFiles": [
+    "PicoCTF retos web pt2/Irish-Name-Repo 3.md",
+    "PicoCTF retos web pt2/JaWT Scratchpad.md",
     "Plantilla.md",
+    "PicoCTF retos web pt2/Irish-Name-Repo 2.md",
+    "PicoCTF retos web pt2/Irish-Name-Repo 1.md",
+    "PicoCTF retos web pt3/Cookies.md",
+    "PicoCTF retos web pt3",
     "PicoCTF retos web/insp3ctor.md",
+    "PicoCTF retos web pt2",
     "PicoCTF retos web/Client side-again.md",
     "PicoCTF retos web/where are the robots.md",
     "PicoCTF retos web/picobrowser.md",
@@ -171,11 +178,6 @@
     "Parcial 1/ASCII numbers.md",
     "Parcial 1/Lets Warm Up.md",
     "Parcial 1/what's a net cat.md",
-    "Parcial 1/Wave a flag.md",
-    "Parcial 1/Warmed up.md",
-    "Parcial 1/strings it.md",
-    "Parcial 1/Static ain't always noise.md",
-    "Parcial 1/Obedient cat.md",
     "Parcial 1",
     "retos-bandit"
   ]
