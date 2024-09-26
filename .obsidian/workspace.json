@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md",
+                "file": "PicoCTF retos web pt3/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md",
+                "file": "PicoCTF retos web pt3/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md",
+                "file": "PicoCTF retos web pt3/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF retos web pt2/JaWT Scratchpad.md"
+                "file": "PicoCTF retos web pt3/Scavenger Hunt.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "1b2c761748d1760f",
   "lastOpenFiles": [
-    "PicoCTF retos web pt2/Irish-Name-Repo 3.md",
-    "PicoCTF retos web pt2/JaWT Scratchpad.md",
     "Plantilla.md",
+    "PicoCTF retos web pt3/Scavenger Hunt.md",
+    "PicoCTF retos web pt3/GET aHEAD.md",
+    "PicoCTF retos web pt3/Cookies.md",
+    "PicoCTF retos web pt2/JaWT Scratchpad.md",
+    "PicoCTF retos web pt2/Irish-Name-Repo 3.md",
     "PicoCTF retos web pt2/Irish-Name-Repo 2.md",
     "PicoCTF retos web pt2/Irish-Name-Repo 1.md",
-    "PicoCTF retos web pt3/Cookies.md",
     "PicoCTF retos web pt3",
     "PicoCTF retos web/insp3ctor.md",
     "PicoCTF retos web pt2",
@@ -176,8 +178,6 @@
     "Parcial 1/Based.md",
     "Parcial 1/Bases.md",
     "Parcial 1/ASCII numbers.md",
-    "Parcial 1/Lets Warm Up.md",
-    "Parcial 1/what's a net cat.md",
     "Parcial 1",
     "retos-bandit"
   ]
