@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF retos forensic pt1/So Meta.md",
+                "file": "PicoCTF retos forensic pt2/like1000.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF retos forensic pt1/So Meta.md",
+                "file": "PicoCTF retos forensic pt2/like1000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF retos forensic pt1/So Meta.md",
+                "file": "PicoCTF retos forensic pt2/like1000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF retos forensic pt1/So Meta.md"
+                "file": "PicoCTF retos forensic pt2/like1000.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "88d1be8734fa0900",
   "lastOpenFiles": [
-    "PicoCTF retos forensic pt1/shark on wire 1.md",
+    "Plantilla.md",
+    "PicoCTF retos forensic pt2/like1000.md",
+    "PicoCTF retos forensic pt2/White Pages.md",
+    "PicoCTF retos forensic pt2/Shark on wire 2.md",
+    "PicoCTF retos forensic pt2/like1000",
+    "PicoCTF retos forensic pt2/c0rrupt.md",
+    "PicoCTF retos forensic pt2/m00nwalk.md",
     "PicoCTF retos forensic pt1/So Meta.md",
+    "PicoCTF retos forensic pt2",
+    "PicoCTF retos forensic pt1/shark on wire 1.md",
     "PicoCTF retos forensic pt1/Glory of the garden.md",
     "PicoCTF retos forensic pt1/extensions.md",
     "PicoCTF retos forensic pt1/What Lies Within.md",
-    "Plantilla.md",
     "PicoCTF retos forensic pt1",
     "PicoCTF retos web pt4/Trickster.md",
     "PicoCTF retos web pt4/SOAP.md",
@@ -173,12 +180,7 @@
     "PicoCTF retos web/Client side-again.md",
     "PicoCTF retos web/where are the robots.md",
     "PicoCTF retos web/picobrowser.md",
-    "PicoCTF retos web/logon.md",
-    "PicoCTF retos web/dont-use-client-side.md",
-    "Parcial 1/useless.md",
     "PicoCTF retos web",
-    "Parcial 1/Special.md",
-    "Parcial 1/Serpentine.md",
     "Instalacion de Linux.pdf",
     "Parcial 1",
     "retos-bandit"
