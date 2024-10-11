@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF retos forensic pt2/like1000.md",
+                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF retos forensic pt2/like1000.md",
+                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF retos forensic pt2/like1000.md",
+                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF retos forensic pt2/like1000.md"
+                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "88d1be8734fa0900",
   "lastOpenFiles": [
+    "PicoCTF retos forensic pt3/Matryoshka doll.md",
+    "PicoCTF retos forensic pt3/tunn3l v1s10n.md",
+    "PicoCTF retos forensic pt3/WebNet0.md",
+    "PicoCTF retos forensic pt3/WebNet1.md",
+    "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
     "Plantilla.md",
     "PicoCTF retos forensic pt2/like1000.md",
+    "PicoCTF retos forensic pt3",
     "PicoCTF retos forensic pt2/White Pages.md",
     "PicoCTF retos forensic pt2/Shark on wire 2.md",
     "PicoCTF retos forensic pt2/like1000",
@@ -173,16 +179,10 @@
     "PicoCTF retos web pt2/JaWT Scratchpad.md",
     "PicoCTF retos web pt2/Irish-Name-Repo 3.md",
     "PicoCTF retos web pt2/Irish-Name-Repo 2.md",
-    "PicoCTF retos web pt2/Irish-Name-Repo 1.md",
     "PicoCTF retos web pt3",
-    "PicoCTF retos web/insp3ctor.md",
     "PicoCTF retos web pt2",
-    "PicoCTF retos web/Client side-again.md",
-    "PicoCTF retos web/where are the robots.md",
-    "PicoCTF retos web/picobrowser.md",
     "PicoCTF retos web",
     "Instalacion de Linux.pdf",
-    "Parcial 1",
-    "retos-bandit"
+    "Parcial 1"
   ]
 }
