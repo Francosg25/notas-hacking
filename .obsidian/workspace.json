@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
+                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
+                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
+                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF retos forensic pt3/MacroHard WeakEdge.md"
+                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md"
               }
             }
           }
@@ -148,12 +148,20 @@
   },
   "active": "88d1be8734fa0900",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
+    "PicoCTF retos forensic pt4/Sleuthkit Intro.md",
+    "PicoCTF retos forensic pt4/Sleuthkit Apprentice.md",
+    "PicoCTF retos forensic pt4/Operation Orchid.md",
+    "README.md",
+    "PicoCTF retos forensic pt4/Operation Oni.md",
+    "PicoCTF retos forensic pt4/Milkslap.md",
+    "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
+    "PicoCTF retos forensic pt4",
     "PicoCTF retos forensic pt3/Matryoshka doll.md",
     "PicoCTF retos forensic pt3/tunn3l v1s10n.md",
     "PicoCTF retos forensic pt3/WebNet0.md",
     "PicoCTF retos forensic pt3/WebNet1.md",
-    "PicoCTF retos forensic pt3/MacroHard WeakEdge.md",
-    "Plantilla.md",
     "PicoCTF retos forensic pt2/like1000.md",
     "PicoCTF retos forensic pt3",
     "PicoCTF retos forensic pt2/White Pages.md",
@@ -171,18 +179,10 @@
     "PicoCTF retos web pt4/Trickster.md",
     "PicoCTF retos web pt4/SOAP.md",
     "PicoCTF retos web pt4/Most Cookies.md",
-    "PicoCTF retos web pt4/MatchTheRegex.md",
     "PicoCTF retos web pt4",
-    "PicoCTF retos web pt3/Scavenger Hunt.md",
-    "PicoCTF retos web pt3/GET aHEAD.md",
-    "PicoCTF retos web pt3/Cookies.md",
-    "PicoCTF retos web pt2/JaWT Scratchpad.md",
-    "PicoCTF retos web pt2/Irish-Name-Repo 3.md",
-    "PicoCTF retos web pt2/Irish-Name-Repo 2.md",
     "PicoCTF retos web pt3",
     "PicoCTF retos web pt2",
     "PicoCTF retos web",
-    "Instalacion de Linux.pdf",
-    "Parcial 1"
+    "Instalacion de Linux.pdf"
   ]
 }

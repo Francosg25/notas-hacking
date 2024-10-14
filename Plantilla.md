@@ -1,7 +1,5 @@
 ## Objetivo
 
-
-
 ## Solución
 
 ## Notas adicionales
