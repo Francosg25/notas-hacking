@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
+                "file": "PicoCTF retos crypto pt1/Easy1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
+                "file": "PicoCTF retos crypto pt1/Easy1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
+                "file": "PicoCTF retos crypto pt1/Easy1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md"
+                "file": "PicoCTF retos crypto pt1/Easy1.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "88d1be8734fa0900",
   "lastOpenFiles": [
+    "PicoCTF retos crypto pt1/TheNumbers.md",
+    "PicoCTF retos crypto pt1/La cifra de.md",
+    "PicoCTF retos crypto pt1/Easy1.md",
+    "PicoCTF retos crypto pt1/wavesoverlambda.md",
+    "PicoCTF retos crypto pt1/Tapping.md",
+    "PicoCTF retos crypto pt1/13.md",
+    "PicoCTF retos crypto pt1/caesar.md",
     "Plantilla.md",
+    "Metared mx/Details.md",
+    "PicoCTF retos crypto pt1",
     "PicoCTF retos forensic pt4/Disk, disk, sleuth!.md",
+    "Metared mx",
     "PicoCTF retos forensic pt4/Sleuthkit Intro.md",
     "PicoCTF retos forensic pt4/Sleuthkit Apprentice.md",
     "PicoCTF retos forensic pt4/Operation Orchid.md",
@@ -169,20 +179,10 @@
     "PicoCTF retos forensic pt2/like1000",
     "PicoCTF retos forensic pt2/c0rrupt.md",
     "PicoCTF retos forensic pt2/m00nwalk.md",
-    "PicoCTF retos forensic pt1/So Meta.md",
     "PicoCTF retos forensic pt2",
-    "PicoCTF retos forensic pt1/shark on wire 1.md",
-    "PicoCTF retos forensic pt1/Glory of the garden.md",
-    "PicoCTF retos forensic pt1/extensions.md",
-    "PicoCTF retos forensic pt1/What Lies Within.md",
     "PicoCTF retos forensic pt1",
-    "PicoCTF retos web pt4/Trickster.md",
-    "PicoCTF retos web pt4/SOAP.md",
-    "PicoCTF retos web pt4/Most Cookies.md",
     "PicoCTF retos web pt4",
     "PicoCTF retos web pt3",
-    "PicoCTF retos web pt2",
-    "PicoCTF retos web",
-    "Instalacion de Linux.pdf"
+    "PicoCTF retos web pt2"
   ]
 }
